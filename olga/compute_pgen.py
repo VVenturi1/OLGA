@@ -262,7 +262,7 @@ from olga.utils import nt2aa, determine_seq_type
 #
 #import load_model
 #import generation_probability
-#from utils import nt2aa, determine_seq_type, gene_to_num_str
+from utils import nt2aa, determine_seq_type, gene_to_num_str
 
 from optparse import OptionParser
 
